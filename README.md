@@ -1,5 +1,5 @@
-数据集为公开数据集，请自行下载，在根目录下创建'''data'''文件夹，内容如下
-'''
+数据集为公开数据集，请自行下载，在根目录下创建```data```文件夹，内容如下
+```
 |   cifar-10-python.tar.gz
 |
 +---cifar-10-batches-py
@@ -37,4 +37,4 @@
             train-images-idx3-ubyte.gz
             train-labels-idx1-ubyte
             train-labels-idx1-ubyte.gz
-'''
+```
